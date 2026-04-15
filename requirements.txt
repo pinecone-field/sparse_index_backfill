@@ -1,0 +1,2 @@
+pinecone
+pinecone[grpc]
